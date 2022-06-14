@@ -7,3 +7,5 @@ https://wokwi.com/projects/334346714953548371 temperature and humidity<br>
 https://wokwi.com/projects/334431902352015956 IR Sensor<br>
 https://wokwi.com/projects/334432800791855698 PIR Sensor <br>
 https://wokwi.com/projects/334434438919225938 led button <br>
+https://wokwi.com/projects/334434644584825428 led fade <br>
+
