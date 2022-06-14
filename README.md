@@ -8,4 +8,4 @@ https://wokwi.com/projects/334431902352015956 IR Sensor<br>
 https://wokwi.com/projects/334432800791855698 PIR Sensor <br>
 https://wokwi.com/projects/334434438919225938 led button <br>
 https://wokwi.com/projects/334434644584825428 led fade <br>
-
+https://wokwi.com/projects/334437214346805842 motion sensor buzzer<br>
