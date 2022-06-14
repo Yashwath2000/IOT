@@ -5,3 +5,4 @@ https://wokwi.com/projects/333886874557874770  LED display <br>
 https://wokwi.com/projects/334346443861000786 ultra sonic sensor<br>
 https://wokwi.com/projects/334346714953548371 temperature and humidity<br>
 https://wokwi.com/projects/334431902352015956 IR Sensor<br>
+https://wokwi.com/projects/334432800791855698 PIR Sensor <br>
