@@ -13,3 +13,4 @@ https://wokwi.com/projects/334976982039134803 servo motor<br>
 https://wokwi.com/projects/334979695422472787 servo meter withn potentio meter<br>
 https://wokwi.com/projects/334980736128909908 servo motor using push button<br>
 https://wokwi.com/projects/334981631967232594 servo motor using ultrasonic<br>
+https://wokwi.com/projects/335067387839644243 buzzer
