@@ -16,3 +16,4 @@ https://wokwi.com/projects/334981631967232594 servo motor using ultrasonic<br>
 https://wokwi.com/projects/335067387839644243 buzzer<br>
 https://wokwi.com/projects/335070641803756116buzzer with pushbutton<br>
 https://wokwi.com/projects/335073654671934036 ultrasonic with buzzer<br>
+https://wokwi.com/projects/335699544152998483 ultrasonic buzzer within 20 inches range<br>
